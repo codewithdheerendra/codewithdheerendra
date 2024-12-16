@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Dheerendra!  
 
-<!--
-**codewithdheerendra/codewithdheerendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full-Stack Developer** with 2+ years of experience, specializing in building custom web solutions that deliver seamless user experiences.  
 
-Here are some ideas to get you started:
+## 🚀 My Skill Set:  
+- **Languages**: JavaScript (ES6+), PHP, TypeScript  
+- **Frameworks**: React.js, Next.js, Node.js, Express.js 
+- **Databases**: MySQL, MongoDB  
+- **Other Skills**: CSS3, Bootstrap, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Currently Learning:  
+- Enhancing my expertise in **Next.js** and exploring serverless architectures.  
+
+## 💻 My Projects:  
+- **[Thinkboa](link-to-repo)**: just started, will be update.
+- **[Newwaycm](link-to-repo)**: Will be update once all the require things get updated.  
+
+## ✨ Fun Facts:  
+- I love collaborating with teams to create impactful solutions.  
+- I'm passionate about sharing knowledge through online sessions for developers.  
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dheerendra-manjhi-5213b7187) or check out my portfolio at [Will be update]!  
