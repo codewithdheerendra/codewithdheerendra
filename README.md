@@ -4,7 +4,7 @@ I'm a passionate **Full-Stack Developer** with 2+ years of experience, specializ
 
 ## 🚀 My Skill Set:  
 - **Languages**: JavaScript (ES6+), PHP, TypeScript  
-- **Frameworks**: React.js, Next.js, Node.js, Express.js 
+- **Frameworks**: React.js, Node.js, Express.js, loopback 4 
 - **Databases**: MySQL, MongoDB  
 - **Other Skills**: CSS3, Bootstrap, Git
 
