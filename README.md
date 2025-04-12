@@ -12,7 +12,6 @@ I'm a passionate **Full-Stack Developer** with 2+ years of experience, specializ
 - Enhancing my expertise in **Next.js** and exploring serverless architectures.  
 
 ## 💻 My Projects:  
-- **[Thinkboa](link-to-repo)**: just started, will be update.
 - **[Newwaycm](link-to-repo)**: Will be update once all the require things get updated.  
 
 ## ✨ Fun Facts:  
